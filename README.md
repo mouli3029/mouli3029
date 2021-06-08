@@ -4,10 +4,10 @@
  <img src="giphy2.gif" height = "200px"/> 
 </div>
 I am Mouli, a CS Student from KL University, Vijayawada. <br />
-- 💻 I’m a FullStack Developer and ML Enthusiast.
-- 👯 I love to work on React.
-- 📫 How to reach me: [Mail me](mailto:venkatmouli823@gmail.com)
-- 😄 Pronouns: He/Him
+<li>💻 I’m a FullStack Developer and ML Enthusiast. </li> 
+<li>👯 I love to work on React. </li> 
+<li>📫 How to reach me: [Mail me](mailto:venkatmouli823@gmail.com)  </li> 
+<li>😄 Pronouns: He/Him </li> 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouli3029&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast)](https://git.io/streak-stats)
 ---
