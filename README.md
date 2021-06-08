@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h2> I am Venkata Mouli <a href="https://github.com/mouli3029"> mouli3029 </h2> </a>
- 
+<div align="center"> 
+ <img src="giphy2.gif" height = "200px"/> 
+</div>
 I am Mouli, a CS Student from KL University, Vijayawada. <br />
 - 💻 I’m a FullStack Developer and ML Enthusiast.
 - 👯 I love to work on React.
