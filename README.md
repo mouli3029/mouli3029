@@ -10,7 +10,6 @@ I am Mouli, a CS Student from KL University, Vijayawada.
 - 📫 How to reach me:  [Mail me](mailto:venkatmouli823@gmail.com) 
 - 😄 Pronouns: He/Him  <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouli3029&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast)](https://git.io/streak-stats)
 <br/>
 ![](https://komarev.com/ghpvc/?username=mouli3029&color=green)
 ---
