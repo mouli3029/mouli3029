@@ -10,7 +10,6 @@ I am Mouli, a CS Student from KL University, Vijayawada.
 - 📫 How to reach me:  [Mail me](mailto:venkatmouli823@gmail.com) 
 - 😄 Pronouns: He/Him  <br />
 
-<br/>
 ![](https://komarev.com/ghpvc/?username=mouli3029&color=green)
 ---
 ## Connect with me
