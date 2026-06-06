@@ -5,7 +5,8 @@
 </div>
 
 I am Mouli, a CS Student from KL University, Vijayawada.
-- 💻 I’m a FullStack Developer and ML Enthusiast. 
+- 💻 I’m a FullStack Developer.
+- ⚡️Currently focused on Distributed Systems, AI workflows, and scalable system design.
 - 👯 I love to work on React. <br />
 - 📫 How to reach me:  [Mail me](mailto:venkatmouli823@gmail.com) 
 - 😄 Pronouns: He/Him  <br />
